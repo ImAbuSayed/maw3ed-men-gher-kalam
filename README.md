@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> قلبي ينادي في سكون الليل
+> يا نور عيني في المدى الطويل
+> أشتاق إليك والشوق دليل
+> هل تسمعين هذا الحنين الجميل
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
