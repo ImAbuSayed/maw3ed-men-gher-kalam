@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Maw3ed Men Gher Kalam
+
+This log tracks the cryptographic history and versioning for the song **Maw3ed Men Gher Kalam** (maw3ed-men-gher-kalam).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-09T05:47:07.333651 | `v1` | `6f553183b76c7d85099184e2f30ee2781965c45605fd851df06c85a4fb7c795f` | `456c316ea175cf3f06c32d58cdb9d56489df4d1024095593dd731fcca6f83525` | `2026-05-09_maw3ed-men-gher-kalam-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
